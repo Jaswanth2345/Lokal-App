@@ -39,7 +39,7 @@ These structures were chosen for simplicity, performance, and compatibility with
 
 ## 3. External SDK / Libraries Used
 
-### Firebase Authentication (Optional / If Used)
+### Firebase Authentication 
 - Used for secure OTP verification.
 - Provides reliable backend support.
 - Reduces manual security handling.
@@ -63,7 +63,7 @@ These SDKs were chosen for modern Android development and industry relevance.
 - Understanding OTP flow logic.
 - Debugging errors.
 - Structuring ViewModel and Factory classes.
-- Learning best practices in MVVM.
+- Learning best practices in ViewModel.
 - Improving README and documentation.
 
 ### Implemented and Understood Personally:
@@ -86,4 +86,5 @@ GPT was used as a learning assistant, while core logic and implementation were d
 4. Run on Emulator or Physical Device.
 
 ---
+
 
