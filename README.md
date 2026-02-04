@@ -1,6 +1,6 @@
 # OTP Authentication App
 
-This project is an Android application that implements OTP-based authentication with session handling using Kotlin and Jetpack Compose.
+ Project is an Android application that implements OTP-based authentication with session handling using Kotlin and Jetpack Compose.
 
 ---
 
@@ -86,3 +86,4 @@ GPT was used as a learning assistant, while core logic and implementation were d
 4. Run on Emulator or Physical Device.
 
 ---
+
